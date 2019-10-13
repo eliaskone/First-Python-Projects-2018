@@ -2,14 +2,14 @@ class Bankkonto:
     def __init__(self):
         self._auszahlen = True
         self._ueberzeihungskredit = False
-        self._vorname = "Elyas"
+        self._vorname = "Elias"
         self.__nachname = "Koné"
         self.__kontonumer = 473628383477447
         self.__kontostand = 4927.50
 
 
     def informationen(self):
-        self._vorname = "Elyas"
+        self._vorname = "Elias"
         self.__nachname = "Koné"
         self.__kontonumer = 473628383477447
         self.__kontostand = 4927.50
@@ -65,9 +65,3 @@ if __name__ == "__main__":
     Giro = Girokonto()
     Giro._vorname
     print(Giro._vorname)
-
-
-
-
-
-
