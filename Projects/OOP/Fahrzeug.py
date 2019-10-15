@@ -76,10 +76,3 @@ class LKW(Fahrzeug):
 if __name__ == "__main__":
     Fahrzeug1 = PKW()
     Fahrzeug1.lenkenRechts()
-
-
-
-
-
-
-
