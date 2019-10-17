@@ -159,4 +159,3 @@ class calculator: #Klasse "calculator"(Taschenrechner)
 #Hauptprogramm
 mycalculator = calculator()
 print(mycalculator.showmenu())
-
