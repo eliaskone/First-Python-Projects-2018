@@ -44,4 +44,3 @@ if __name__ == "__main__":
     meinSchiff.beschleunigen(12)
     meinSchiff.beschleunigen(3)
     print(meinSchiff.showSchiff())
-
